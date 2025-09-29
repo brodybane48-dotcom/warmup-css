@@ -3,3 +3,34 @@ list-style-type: none;
 color:goldenrod;
 font-family: fantasy;
 }
+.semester{
+border-style: dashed;
+border-color: darkgreen;
+border-width: 2px;
+padding:10px;
+margin-bottom: 10px;
+background-color: turquoise;
+}
+.semester2{
+border-style: dashed;
+border-color: darkgreen;
+border-width: 2px;
+padding:10px;
+margin-bottom: 10px;
+background-color: turquoise;
+}
+.semester-heading{
+font-weight: normal;
+margin-top: 0px;
+margin-bottom: 10px;
+border-bottom-style: solid;
+} 
+.semester-heading2{
+font-weight: normal;
+margin-top: 0px;
+margin-bottom: 10px;
+border-bottom-style: solid;
+}
+.semester-class-list{
+color: black
+}
